@@ -4,7 +4,7 @@ Generates a dataframe of planets and systems according to the cepheus engine rul
 To use this file first launch an instance of Secteur_VPublic.ipynb
 It will ask how many systems grids of 20x20 (a big Traveller RPG sector) you want.
 Then it will ask for the name of the region where these sectors are.
-Finally it asks for the path you want the region to be written.
+Finally it asks for the path you want the region to be written. Write down the absolute path with '\' at the end.
 Check the directory
 
 Then launch the Planete_VPublic.ipynb
